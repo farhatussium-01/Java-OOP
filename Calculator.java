@@ -35,13 +35,13 @@ public class Calculator {
                     result = a / b;
                 else {
                     System.out.println("Cannot divide by zero");
-                    
+                    return;
                 }
                 break;
 
             default:
                 System.out.println("Invalid operator");
-            
+                return;
         }
 
         System.out.println("Result = " + result);
