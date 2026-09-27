@@ -29,7 +29,6 @@ class student{
     }
   }
 }
-
 public class Main{
     public static void main(String [] args){
         student s1 = new student(001,"SIUM","SWE",3.75f);
