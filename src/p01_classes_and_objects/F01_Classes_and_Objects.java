@@ -4,8 +4,8 @@ class object{
     final int y = 25; // final --> to make variable constant
 }
 class student{
-    String fname = "Rakib";
-    String lname = "Hassan";
+    String fname = "Farhatus";
+    String lname = "Sium";
     int age = 22;
 }
 
